@@ -1,0 +1,26 @@
+{
+  "name": "to-do-app",
+  "version": "1.0.0",
+  "description": "A little TO DO App Using NodeJs",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rahuldandotiya/To-Do-App-USing-NodeJs.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Rahuldandotiya/To-Do-App-USing-NodeJs/issues"
+  },
+  "homepage": "https://github.com/Rahuldandotiya/To-Do-App-USing-NodeJs#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "ejs": "^3.1.2",
+    "express": "^4.17.1",
+    "mongodb": "^3.5.6",
+    "mongoose": "^5.9.10"
+  }
+}
